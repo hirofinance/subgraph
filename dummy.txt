@@ -1,0 +1,1 @@
+    // "deploy": "graph deploy munj1/solidly-op --ipfs https://api.thegraph.com/ipfs/ --node https://api.thegraph.com/deploy/ --debug",
